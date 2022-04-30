@@ -1,0 +1,16 @@
+Component   : SMD-MIC
+PCB Library : Miscellaneous Devices LC.PcbLib
+Date        : 2022/4/1
+Time        : 1:13:20
+
+
+
+Dimension : 3.15 x 3.937 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Paste                   0          0        0       1        0
+ Top Overlay                 0          4        0       0        0
+ Top Solder Mask             0          0        0       1        0
+--------------------------------------------------------------------
+ Total                       0          4        0       2        0
